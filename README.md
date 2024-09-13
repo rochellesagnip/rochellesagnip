@@ -1,3 +1,6 @@
+###Hello, I'm Rochelle!
+
+
 - 👋 Hi, I’m @rochellesagnip
 - 👀 I’m interested on different things that capture my attention that for me is worth of my time 
 - 🌱 I’m currently learning how to program and to code  
