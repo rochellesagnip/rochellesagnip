@@ -1,6 +1,8 @@
 <h1> I Am Rochelle Sagnip ⭐</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rochellesagnip) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sagniprochelle/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rochellehsgn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rochellesagnip/) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sagniprochelle/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rochellehsgn/)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&color=F0E604&background=FFFFFF00&width=550&lines=Hello%2C+I+am+Rochelle+Sagnip;A+BSIT+Student+Major+in+Mobile+and+Web+Applications;From+National+University+Baliwag;Let's+work+together!" alt="Typing SVG" /></a>
 <p> I’m <b>Rochelle </b>, though most people know me as <i>"Rochelle"</i> or <i>"Elle,"</i> My passion for technology and community building has shaped my journey so far. As a third-year student at National University Baliwag, I’m pursuing a <b>Bachelor of Science in Information Technology, with a focus on Mobile and Web Application.</b> This is where I sharpened my skills and developed a strong interest in mobile and web development.</p>
