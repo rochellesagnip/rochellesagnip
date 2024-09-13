@@ -1,12 +1,20 @@
-###Hello, I'm Rochelle!
+<DOCTYPE html>
+<html>
+  <head>
+  </head>
+      <body>
+        <h1>Hello, I'm Rochelle! 👋</h1> 
+        <h2>GET TO KNOW ME 👀</h2>
+          <blockqoute>Getting through it, one language at a time.</blockqoute>
+        <br>
+        <p> ✨ I’m interested on different things that capture my attention that for me is worth of my time</p>
+        <p> 💞️ I’m looking forward to collaborate on creating useful websites and application</p>
+        <p> 🍀 Still Learning</p>
+      </body>
+</html>
 
 
-- 👋 Hi, I’m @rochellesagnip
-- 👀 I’m interested on different things that capture my attention that for me is worth of my time 
-- 🌱 I’m currently learning how to program and to code  
-- 💞️ I’m looking forward to collaborate on creating useful websites and application that can be beneficial to the lives of Filipinos. 
-- 📫 How to reach me, you can easily click the link here in my profile that will direct you to my different social media platforms.
-- Instagram 📷 https://www.instagram.com/rochellehsgn/
+
   
 
 <!---
