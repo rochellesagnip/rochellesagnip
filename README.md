@@ -15,15 +15,6 @@
       <p><b>🔹 Former Promotion and Certifications Lead</b> <a href="https://www.facebook.com/GDSCNUBaliwag" >Google Developer Student Clubs National University Baliwag</a>💙💚💛❤</p>
 <p>Outside of my academic and tech-related endeavors, I also engage with the community by serving as a block representative for the NU Literates Community, where I contribute to   fostering a culture of literacy and learning among my peers.</p>  
 <hr>
-<h3>Programming languages👩‍💻</h3>
-<ul>
-  <li>Java</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-  <li>PHP</li>
-  <li>C#</li>
-</ul>
 
 
 
